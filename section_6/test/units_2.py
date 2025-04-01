@@ -1,4 +1,4 @@
-from units_1 import square
+from pythonProjects.section_6.units_1 import square
 
 def main():
     test_square()
